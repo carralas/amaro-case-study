@@ -1,0 +1,5 @@
+*.DS_Store
+*.csv
+*.pdf
+.ipynb_checkpoints/
+Untitled.ypinb
